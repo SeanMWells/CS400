@@ -1,0 +1,5 @@
+Your scenario is:
+
+While reviewing the test code written by your partner, you notice that they have included a number of inappropriate (vulgar and offensive) variable names in their code.
+
+Join your Flip group through this link https://flip.com/b295d68d and submit your video in the topic P103.IceBreaker.
